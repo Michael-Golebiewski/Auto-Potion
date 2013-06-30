@@ -59,9 +59,9 @@ function OnTick()
             LastTimeMPot = GetTickCount() -- Gets the amount of time the potion was used
         end
   			
-				if GetTickCount() - LastTimeMPot > 15000 then
-					MPotUsed = false
-				end		
+	if GetTickCount() - LastTimeMPot > 15000 then
+		MPotUsed = false
+	end		
 				
     end
 end
