@@ -16,6 +16,7 @@ Installiation
 
 Update News<br >
 ===========
+Version 2: Uploaded the main file, which can be found <a href="https://github.com/Michael-Golebiewski/Auto-Potion/blob/master/%5BBD%5D%20Auto%20Potion.lua">here</a>.
 Version 1: Created the ReadMe.mdl file and updated it abit.<br >
 
 Credits
