@@ -17,13 +17,13 @@ version = "2.0" -- Dont Change this
 -- Upon entering the game, This function runs
 function OnLoad()
     -- To make sure the script loaded fine, Print this text to the chat so we know its loaded in
-    PrintChat("<font color='#FA58F4'>Name:</font><font color='#FFFFFF'> [AC] Auto Potion</font>  <font color='#FA58F4'>VERSION:</font><font color='#FFFFFF'> " .. version .. "</font>  <font color='#FA58F4'>STATUS:</font><font color='#00FF00'> ENABLED</font>")
+    PrintChat("<font color='#FA58F4'>Name:</font><font color='#FFFFFF'> [BD] Auto Potion</font>  <font color='#FA58F4'>VERSION:</font><font color='#FFFFFF'> " .. version .. "</font>  <font color='#FA58F4'>STATUS:</font><font color='#00FF00'> ENABLED</font>")
 end
 
 -- Upon unloading the script (No reason for this to happen, just an extra precussion)
 function OnUnload()
     -- To make sure the script unloaded fine, Print this text to the chat so we know its unloaded
-    PrintChat("<font color='#FA58F4'>Name:</font><font color='#FFFFFF'> [AC] Auto Potion</font>  <font color='#FA58F4'>VERSION:</font><font color='#FFFFFF'> " .. version .. "</font>  <font color='#FA58F4'>STATUS:</font><font color='#FF0000'> DISABLED</font>")
+    PrintChat("<font color='#FA58F4'>Name:</font><font color='#FFFFFF'> [BD] Auto Potion</font>  <font color='#FA58F4'>VERSION:</font><font color='#FFFFFF'> " .. version .. "</font>  <font color='#FA58F4'>STATUS:</font><font color='#FF0000'> DISABLED</font>")
 end
 
 function OnTick()
