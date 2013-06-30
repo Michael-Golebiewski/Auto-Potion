@@ -7,8 +7,8 @@ Installiation
 =============
 1) Launch Bot of Legends (BoL) as adminstrator.
 2) Log In.
-3) Go to the 'Custom Scripts' Tab, Should look like this: http://i.imgur.com/BiWWeUW.png
-4) Press the 'New Script' button, looks like this: http://i.imgur.com/5PPT53w.png
+3) Go to the 'Custom Scripts' Tab, Should look like <a href="http://i.imgur.com/BiWWeUW.png">this</a>.
+4) Press the 'New Script' button, looks like <a href="http://i.imgur.com/5PPT53w.png">this</a>.
 5) Copy and paste this code into the editor. 
 6) Press Save and name it to whatever you want.
 7) Press the box next to the name so it is checked.
