@@ -17,7 +17,7 @@ Installiation
 
 Update News
 ===========
-Nothing here for now
+Version 1: Created the ReadMe.mdl file and updated it abit.
 
 Credits
 =======
