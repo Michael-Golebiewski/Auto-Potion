@@ -1,7 +1,6 @@
 Auto-Potion
 ===========
-
-Auto Potion for Bot of Legends (BoL)
+Auto-Potion is a simple script that uses math to calculate the percentage of the maximum health and mana, then uses the potion if the value is lower then a certain amount. Basicly, it uses the potions automaticly.
 
 Installiation
 =============
