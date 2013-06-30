@@ -24,3 +24,7 @@ Credits
 http://html-color-codes.info/ - For the color codes for the chat.
 http://botoflegends.com/forum/topic/2109-tutorial-how-to-start-writing-scripts-for-bot-of-legends/ - Apple for showing how to create scripts for BoL in his thread.
 Bot of Legends for creating such a awesome tool
+
+Lisence
+=======
+This is under the <a href="http://en.wikipedia.org/wiki/Beerware">beerware lisence</a>, meaning Should the user of the product meet the author and consider the software useful, he is encouraged to buy the author a beer "in return" (or, in some variations, to drink a beer in the author's honor).
